@@ -28,4 +28,18 @@ Git commands
 git config --global user.name "thogeti"
 git config --global user.email "thogeti.dev@gmail.com"
 
+commit the code to Git 
+specific file to add :
+    git add requirements.txt
+all files :
+    git add .
+
+    commit files :
+    git commit -m "E2E files added"
+
+    git Push :
+    git push remote branch
+    git push origin main
+
+
 
